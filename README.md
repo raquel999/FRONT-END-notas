@@ -1,4 +1,4 @@
- ## Front-end do projeto Rocket Note :pencil:
+ ## Front-end do projeto Rocket Notes :pencil:
 <p align="left"><img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/></p>
 # :hammer: Funcionalidades do projeto
 
